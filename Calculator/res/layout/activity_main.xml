@@ -68,7 +68,6 @@ android:textSize="8pt"
 android:id="@+id/btnDiv"> 
 </Button> 
 
-
 </LinearLayout> 
 <TextView 
 android:layout_height="wrap_content" 

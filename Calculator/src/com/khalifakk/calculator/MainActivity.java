@@ -1,7 +1,5 @@
 package com.khalifakk.calculator;
 
-import com.khalifakk.calculator.R;
-
 import android.os.Bundle;
 import android.app.Activity;
 import android.text.TextUtils;
